@@ -1,0 +1,151 @@
+/***
+font-family: 'Libre Franklin', sans-serif;
+font-family: 'Quicksand', sans-serif;
+font-family: 'Raleway', sans-serif;
+font-family: 'Varela Round', sans-serif;
+***/
+
+body {
+  font-family: 'Varela Round';
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Quicksand';
+}
+
+p {
+  color: #8f8f8f;
+}
+
+a {
+  color: #000;
+}
+
+
+/* Headings */
+.big-heading {
+  font-family: 'Raleway';
+  font-size: 5rem;
+  font-weight: 100;
+  font-stretch: extra-expanded;
+}
+
+.big-subheading {
+  font-family: 'Libre Franklin';
+}
+
+/* Containers */
+.container-fluid {
+  padding: 5% 15%;
+}
+
+/* Sections */
+.colored-section {
+  background-color: #393e46;
+  color: #fff;
+}
+
+.white-section {
+  background-color: #fff;
+}
+
+
+
+/* Preview */
+#preview .container-fluid {
+  padding: 3% 15% 5%;
+}
+
+#preview {
+  text-align: center;
+}
+
+.intro {
+  margin: 5px auto;
+  text-align: left;
+  width: 40%;
+}
+
+.profile-pic {
+  padding: 50px 10px 10px;
+  width: 170px;
+}
+
+.web-dev {
+  font-size: 1.5rem;
+}
+.web-dev:hover {
+  color: #fff;
+}
+
+
+/* Navbar */
+.navbar {
+  padding: 0 0 3rem;
+}
+
+.navbar-brand {
+  font-size: 2rem;
+}
+
+.nav-item {
+  margin: 0 0.5rem;
+}
+
+/* Academic */
+#academic {
+
+}
+.academic {
+  margin: 50px auto;
+  width: 80%;
+}
+.academic-inner {
+  margin: 40px;
+}
+
+/* Skills */
+#skills {
+
+}
+
+.skills {
+  margin: 50px auto;
+  width: 80%;
+}
+
+/* Hobbies */
+.hobbies {
+  margin: 50px auto;
+  width: 80%;
+}
+
+.achievements {
+  margin: 50px auto 20px;
+  width: 80%;
+}
+
+/* Profiles */
+.profiles {
+  margin: 50px auto;
+  width: 80%;
+}
+
+/* Contact */
+.contact {
+  margin: 50px auto;
+  width: 80%;
+}
+
+/* Footer */
+#footer {
+  text-align: center;
+}
+
+.footer {
+  width: 80%;
+  margin: 0 auto;
+}
+.footer-icon {
+  margin: 20px 10px;
+}
